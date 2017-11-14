@@ -14,9 +14,13 @@
     "tutorial",
     "demo"
   ],
-  "author": "GitHub",
+  "author": "Ashishkr",
   "license": "CC0-1.0",
   "devDependencies": {
+    "devtron": "^1.4.0",
     "electron": "~1.7.8"
+  },
+  "dependencies": {
+    "electron-reload": "^1.2.2"
   }
 }
